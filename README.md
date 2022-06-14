@@ -52,7 +52,7 @@ At first, the doctor used to measure these angles in a traditional way, by drawi
 
 ## Team Member
 - [Ahmed Atef Azzam](https://github.com/AhmedAzzam99)
-- [AbdelRahman Shata]()
+- [AbdelRahman Shata](https://github.com/shata1)
 - [Abdeladl Shaheen]()
 - [Abdelaziz Eiwisha]()
 - [Eslam Abo Alnaga]()
